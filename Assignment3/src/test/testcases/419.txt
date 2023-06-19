@@ -1,0 +1,5 @@
+
+        main: function void(){
+            f: array[5] of integer = {1,2,3,4,5};
+            g: array[1,2,3] of integer = {{{1,2,"34"},{4,5,6}}};
+        }

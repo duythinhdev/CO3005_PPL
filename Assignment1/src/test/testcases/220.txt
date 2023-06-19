@@ -1,0 +1,9 @@
+
+                main: function void()
+                {
+                    r, s: integer;
+                    r = 2.0;
+                    b: float = 6.5;
+                    a: array[5] of string;
+                }
+                

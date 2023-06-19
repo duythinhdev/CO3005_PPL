@@ -1,0 +1,5 @@
+main: function void(){
+            {
+                return a + b < c + d;
+            }
+            }

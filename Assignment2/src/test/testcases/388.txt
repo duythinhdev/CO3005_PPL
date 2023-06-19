@@ -1,0 +1,10 @@
+
+        x,r,t: auto = 1, {3,12}, 1-2.e13;
+        main2: function void() {
+            do {
+                writeLn("CSE = " :: str(cse));
+                cse = cse + 1;
+                continue;
+            } while (cse <= 10);
+        }
+        

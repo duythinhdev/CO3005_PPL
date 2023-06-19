@@ -1,0 +1,7 @@
+test: string = "depressed";
+                    stringconcat:  function string () {
+                        for ( i = 0, i <= 10, i + 1){
+                            concattest = test ::: "z" :: "asd" :: "sadasd";
+                        }
+                        return concattest;
+                    }

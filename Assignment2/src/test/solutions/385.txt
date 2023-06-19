@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(main3, VoidType, [], None, BlockStmt([DoWhileStmt(BinExpr(<=, Id(cse), IntegerLit(10)), BlockStmt([CallStmt(writeLn, BinExpr(::, StringLit(CSE = ), FuncCall(str, [Id(cse)]))), ReturnStmt(BinExpr(+, Id(cse), IntegerLit(1)))]))]))
+	FuncDecl(main1, VoidType, [], None, BlockStmt([DoWhileStmt(BinExpr(<=, Id(cse), IntegerLit(10)), BlockStmt([CallStmt(writeLn, BinExpr(::, StringLit(CSE = ), FuncCall(str, [Id(cse)]))), AssignStmt(Id(cse), BinExpr(+, Id(cse), IntegerLit(1))), BreakStmt()]))]))
+])

@@ -1,0 +1,6 @@
+ emches : integer = 2052612;
+                    main: function float () {
+                        do {do {do {do {do {do {do {a = b < c;a = b > c;a = b <= c;a = b >= c;} while (a < 4);} while (a < 5);} while (a < 6);} while (a < 7);} while (a < 8);} while (a < 9);} while (a < 10);
+                        return a;
+                    }
+                

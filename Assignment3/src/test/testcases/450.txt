@@ -1,0 +1,3 @@
+
+        f:array[1,2,3] of float;
+        g: array[1,2,3] of integer = f;

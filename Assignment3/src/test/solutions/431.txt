@@ -1,0 +1,1 @@
+Type mismatch in Variable Declaration: VarDecl(g, ArrayType([1, 2, 3], IntegerType), ArrayLit([ArrayLit([ArrayLit([StringLit(1), StringLit(2), StringLit(34)]), ArrayLit([StringLit(4), StringLit(5), StringLit(6)])])]))

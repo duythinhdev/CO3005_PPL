@@ -1,0 +1,5 @@
+Program([
+	VarDecl(x, ArrayType([1], IntegerType), ArrayLit([StringLit(Mai)]))
+	VarDecl(y, ArrayType([1], IntegerType), ArrayLit([StringLit(Huu)]))
+	VarDecl(z, ArrayType([1], IntegerType), ArrayLit([StringLit(Nghia)]))
+])

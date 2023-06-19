@@ -1,0 +1,18 @@
+ mna: function void (a: integer, b: integer, c: integer, d: string, e: boolean) {
+                        a = 0;
+                        b = 0;
+                        for (a = 5, a <= 10, a + 1){
+                            for (b = 15, b >= 1, b - 1){
+                                for (c = 0, c >= -10, c - 1){
+                                    if (c == 0){
+                                        if (d == ""){
+                                            if (e==false){
+                                                d = d :: "abc";
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        } 
+                    }
+                

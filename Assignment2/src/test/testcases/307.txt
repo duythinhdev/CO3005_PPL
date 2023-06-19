@@ -1,0 +1,4 @@
+x: integer = 123123;
+        a: float = 1.2345;
+        c: boolean = true;
+        f: array[5,5,2,1] of integer;

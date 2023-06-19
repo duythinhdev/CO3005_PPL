@@ -1,0 +1,6 @@
+ /* Mai Huu Nghia 2052612 */
+        main: function void () {
+            while (z <= a_5) {
+                z = z + 1;
+            }
+        }

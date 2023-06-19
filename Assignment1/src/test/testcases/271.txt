@@ -1,0 +1,7 @@
+ emches : integer = 2052612;
+                    //
+                    main: function void () {
+                    /*
+                            c: integer = !((a==b) && (c>=d) != 5 || -(absfc || (c<=d)));
+                    }
+                

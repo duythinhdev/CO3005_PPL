@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([BlockStmt([AssignStmt(Id(hehe), StringLit(have no more idea)), ReturnStmt(Id(hehe))])]))
+])

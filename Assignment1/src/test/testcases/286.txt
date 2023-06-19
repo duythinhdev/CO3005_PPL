@@ -1,0 +1,4 @@
+ print: function void (){
+                        if ((x > 0 || y < 0) && !(x > 0 && y < 0)) { for (i = 0, i < 10, i+2) { if (i % 2 == 0 || i % 3 == 0) { continue; } j=j+2; } }
+                    }
+                

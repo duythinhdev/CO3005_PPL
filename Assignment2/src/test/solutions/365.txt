@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(visitProgram, VoidType, [Param(self, AutoType), Param(ctx, AutoType)], None, BlockStmt([ReturnStmt(FuncCall(Program, [Id(declares)]))]))
+])

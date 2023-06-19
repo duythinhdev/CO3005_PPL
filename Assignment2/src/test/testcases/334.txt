@@ -1,0 +1,7 @@
+ /* Mai Huu Nghia 2052612 */
+        a: boolean = !true;
+        print: function void (){
+            do{
+                printString("hehe");
+            } while (a == true);
+        }

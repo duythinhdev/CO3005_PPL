@@ -1,0 +1,17 @@
+ emches : integer = 2052612;
+                    fib: function void(n:integer) {
+                        if (n == 1 || n == 0)  
+                        else{
+                            a,b : integer = 0,1;
+                            for ( i = 2, i < n+1, i+1 ){
+                                c = a + b;
+                                a = b;
+                                b = c;
+                            }
+                            return b;
+                        }
+                    }
+                    print: function void (){
+                        print(fib(3+1));
+                    }
+                

@@ -1,0 +1,8 @@
+
+        pool: function void() inherit foo{super(1);}
+        boo: function integer(){
+            return 1;
+        }
+        foo: function float(x: integer){
+            while ( x < 10) return x+1;
+        }

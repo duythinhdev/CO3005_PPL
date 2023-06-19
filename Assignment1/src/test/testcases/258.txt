@@ -1,0 +1,8 @@
+ a: boolean = true;
+                    print: function string (){
+                        do{
+                            printString("hehe");
+                        } while (a == true);
+                        return "hehe";
+                    }
+                

@@ -1,0 +1,11 @@
+ mna: function void (a: integer, b: integer, c: integer, d: string, e: boolean) {
+                        a = 0;
+                        b = 0;
+                        for (a = 5, a <= 10, a + 1){
+                            if (b == 0){
+                                return a[b[c[2]]] + 3;
+                            }
+                            else return a[b + foo(a)] + 3;
+                        } 
+                    }
+                

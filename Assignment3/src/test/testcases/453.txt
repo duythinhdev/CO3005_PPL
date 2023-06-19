@@ -1,0 +1,7 @@
+
+        main:function void () {}
+        poo: function void(n: auto) {
+            n = 1;
+            if(n>0) n = n + 1;
+        }
+        

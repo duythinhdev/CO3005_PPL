@@ -1,0 +1,7 @@
+ a: boolean = !true;
+                    print: function void (){
+                        do{
+                            printString("hehe");
+                        } while (a == true);
+                    }
+                

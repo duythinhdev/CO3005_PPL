@@ -1,0 +1,8 @@
+ emches : integer = 2052612;
+                    main: function void () {
+                        do {
+                            b: array [2] of string = {1,2,3,4,true,5.e4};
+                            foo(a,s,d,f,g,h,j,k);
+                        } while (a < 10);
+                    }
+                

@@ -1,0 +1,10 @@
+ /* Mai Huu Nghia 2052612 */
+        test: string = "depressed";
+        stringconcat:  function string () {
+            for ( i = 0, i <= 10, i + 1){
+                hehe:string = "12`1";
+                concattest = test :: "z" :: "asd" :: "sadasd";
+            }
+            return concattest;
+        }
+        lmeo: string = stringconcat(test);

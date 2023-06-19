@@ -1,0 +1,7 @@
+ main: function float () {
+                        emches1 : float = 2052612;
+                        do {a = b < ca = b > ca = b <= ca = b >= c;} while (a < 10);
+                        emches : integer = 2052612;
+                        return a;
+                    }
+                

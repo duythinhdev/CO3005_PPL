@@ -1,0 +1,11 @@
+
+        poo: function auto(n: auto) {
+            n = 1;
+            if(n>0) n = n + 1;
+        }
+        main:function void () {
+            x: integer = 1;
+            x = poo(1);
+            
+        }
+        

@@ -1,0 +1,1 @@
+a: interger = 5; // A C++ style comment

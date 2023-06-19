@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(visitProgram, VoidType, [Param(self, AutoType), Param(ctx, AutoType)], None, BlockStmt([ReturnStmt(FuncCall(Program, [Id(declares)]))]))
+	FuncDecl(visitDeclares, VoidType, [Param(self, AutoType), Param(ctx, AutoType)], None, BlockStmt([IfStmt(BinExpr(==, Id(ctx), FuncCall(declares, [])), BlockStmt([ReturnStmt(ArrayLit([StringLit(self = visit(declare()))]))])), ReturnStmt(ArrayLit([StringLit(self = visit(declare()))]))]))
+])

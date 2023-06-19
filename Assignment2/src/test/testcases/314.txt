@@ -1,0 +1,11 @@
+ /* Mai Huu Nghia 2052612 */
+        f: array[5] of integer = {1,2,3,4,5};
+        main: function void () {
+            r, s: integer;
+            r = 2.0;
+            b: float = 6.5;
+            a: array[5] of string;
+        }
+        MaiHuuNghia2052612: function void ( inherit out x : float, out lmeo: integer) inherit fact {
+            x = MaiHuuNghia2052612(10,10,10,10);
+        }

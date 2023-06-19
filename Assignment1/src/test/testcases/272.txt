@@ -1,0 +1,6 @@
+ emches : integer = 2052612;
+                    main: function void () {
+                        m/*,n*/: integer = 12.12e-1;
+                        c: integer = !(a && b || c || d || e||f||g||h||j||k||l);
+                    }
+                

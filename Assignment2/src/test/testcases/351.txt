@@ -1,0 +1,11 @@
+ /* Mai Huu Nghia 2052612 */
+        a: integer = !false;
+        a: boolean = !false;
+        a: float = !false;
+        a: auto = !false;
+        print: function integer (){}
+        print: function boolean (){}
+        print: function float (){}
+        print: function auto (){}
+        print: function void (){}
+        

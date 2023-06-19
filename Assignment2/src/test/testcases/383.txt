@@ -1,0 +1,6 @@
+main: function void() {
+            do {
+                writeLn("CSE = " :: str(cse));
+                return cse + 1;
+            } while (cse <= 10);
+        }

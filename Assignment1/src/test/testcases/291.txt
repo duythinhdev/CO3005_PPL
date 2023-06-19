@@ -1,0 +1,22 @@
+ emches : integer = 2052612;
+                    //
+                    main: function void () {
+                        if (a >= 10 && b < 5 || c != 3) {
+                            for (i=1,i<=6,i+1) {
+                                if (i == 2 || i == 3) {
+                                    continue;
+                                }
+                                while (j < i) {
+                                    if (j == 2 && k > 0) {
+                                        break;
+                                    } else {
+                                        continue;
+                                    }
+                                    print("i:", i, "j:", j, "k:", k);
+                                }
+                            }
+                        } else {
+                            print("a is not greater than or equal to 10 and b is not less than 5 or c is equal to 3");
+                        }
+                    }
+                

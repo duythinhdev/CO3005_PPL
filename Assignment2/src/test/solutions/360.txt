@@ -1,0 +1,4 @@
+Program([
+	VarDecl(a, ArrayType([2, 3], IntegerType), ArrayLit([ArrayLit([StringLit(2), StringLit(3), StringLit(4)]), ArrayLit([StringLit(5), StringLit(6), StringLit(7)])]))
+	FuncDecl(main, VoidType, [], None, BlockStmt([ReturnStmt(FuncCall(fdsoo, [BinExpr(+, IntegerLit(3), Id(x)), BinExpr(/, FloatLit(4.0), Id(y))]))]))
+])

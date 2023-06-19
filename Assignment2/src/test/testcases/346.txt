@@ -1,0 +1,4 @@
+ /* Mai Huu Nghia 2052612 */
+        main: function string () {
+            a=9;b=c;a=21123+dsfdsfsdf+203123;
+        }

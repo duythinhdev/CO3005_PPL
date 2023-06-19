@@ -1,0 +1,5 @@
+ emches : integer = 2052612;
+                    main: function void () {
+                        while(i < 10) {while(i < 9) {while(i < 8) {while(i < 7) {while(i < 6) {while(i < 5) {while(i < 4) {while(i < 3) {while(i < 2) {while(i < 1) {while(i < 0) {i = i + 1; j = j - 1;}}}}}}}}}}}
+                    }
+                

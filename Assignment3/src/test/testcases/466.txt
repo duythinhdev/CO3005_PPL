@@ -1,0 +1,12 @@
+
+        foo: function void (inherit a: auto, inherit out b: auto) inherit bar {}
+        bar: function void(){}
+        main: function void () inherit foo {
+            super(1, 1.2);
+            printInteger(4);
+            a = 1;
+            b = 1.2;
+            if (b > a){
+                printInteger(4);
+            }
+        }

@@ -1,0 +1,5 @@
+ /* Mai Huu Nghia 2052612 */
+        emches : integer = test;
+        main: function void () {
+            while ( a < test) return x::"lmeo";
+        }

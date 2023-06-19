@@ -1,0 +1,19 @@
+ /* Mai Huu Nghia 2052612 */
+        bubbleSort: function void(arr: array[5] of integer, n: integer)
+        {
+            for (i = 0, i < n - 1, i+1)
+            {
+                swapped: boolean = false;
+                for (j = 0, j < n - i - 1, j+1)
+                {
+                    if (arr[j] > arr[j + 1])
+                    {
+                        swap(arr[j], arr[j + 1]);
+                        swapped = true;
+                    }
+                }
+                if (swapped == false)
+                    break;
+            }
+        }
+        

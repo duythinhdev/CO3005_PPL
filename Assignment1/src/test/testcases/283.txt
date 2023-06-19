@@ -1,0 +1,5 @@
+ emches : integer = 2052612;
+                    main: function void () {
+                        while(i < 10 || j > 5) {i = i + 1; j = j - 1;}
+                    }
+                

@@ -1,0 +1,7 @@
+ emches : integer = 2052612;
+                    main: function void () {
+                        do {
+                            a = a + 1;
+                        } while (a < 10);
+                    }
+                

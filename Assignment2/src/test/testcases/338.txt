@@ -1,0 +1,12 @@
+ /* Mai Huu Nghia 2052612 */
+        emches : integer = 2052612;
+        main: function auto () {
+            do {
+                a = b :: d :: t::e:: c;
+                a = !b;
+                a = b == c;
+                a = b != c;
+                printString("hehe");
+                return 1;
+            } while (a != !10);
+        }

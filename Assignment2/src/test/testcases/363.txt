@@ -1,0 +1,11 @@
+ /* Mai Huu Nghia 2052612 */
+        x: integer = 43;
+        inc: function void(out n: integer, delta: integer) {
+            n = n + delta;
+        }
+        main: function void() {
+            delta: integer = fact(3);
+            inc(x, delta);
+            printInteger(x);
+        }
+        

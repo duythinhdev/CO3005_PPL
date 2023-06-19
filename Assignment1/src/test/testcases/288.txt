@@ -1,0 +1,5 @@
+ emches : integer = 2052612;
+                    main: function float () {
+                        if (a || b && c && !d || e && (f || g)) { for (i = 0, i < 10, i+1) { if (i % 2 == 0 && i % 3 == 0) { continue; } j=j+1; } }
+                    }
+                

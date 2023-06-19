@@ -1,0 +1,18 @@
+
+        x: integer = 3;
+        foo1: function void( x:float,inherit y: string){}
+        foo2: function auto(){return 2.3;}
+        main:function void () {
+            n: integer;
+            x,y,z: float;
+            {
+                {
+
+                }
+                x = n;
+            }
+            if((x<y) && (y < 9) && (z != 10)) z = 456;
+            else z = 34576;
+            foo1(2.3,"abc");
+        }
+        

@@ -1,0 +1,9 @@
+
+        x: integer = 1;
+        main: function void() inherit foo{
+            preventDefault();
+            f: array[5] of integer = {1,2,3,4,5};
+            g: array[1,2,3] of string = {{{"1","2","34"},{"4","5","6"}}};
+            g[x,1,x] = "1";            
+        }
+        foo: function float(inherit x: float){}

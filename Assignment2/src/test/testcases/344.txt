@@ -1,0 +1,4 @@
+ /* Mai Huu Nghia 2052612 */
+        main: function float () {
+            return a[2,1];
+        }

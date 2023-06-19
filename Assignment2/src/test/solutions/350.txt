@@ -1,0 +1,8 @@
+Program([
+	VarDecl(a, BooleanType, UnExpr(!, BooleanLit(False)))
+	FuncDecl(print, IntegerType, [], None, BlockStmt([CallStmt(please_more_than_90, FuncCall(hsdad, [FuncCall(asdasd, [FuncCall(SAdasD, [FuncCall(ASdasd, [])])])]))]))
+	VarDecl(a, BooleanType, UnExpr(!, BooleanLit(False)))
+	FuncDecl(print, IntegerType, [], None, BlockStmt([CallStmt(please_more_than_90, FuncCall(hsdad, [FuncCall(asdasd, [FuncCall(SAdasD, [FuncCall(ASdasd, [])])])]))]))
+	VarDecl(a, BooleanType, UnExpr(!, BooleanLit(False)))
+	FuncDecl(print, IntegerType, [], None, BlockStmt([CallStmt(please_more_than_90, FuncCall(hsdad, [FuncCall(asdasd, [FuncCall(SAdasD, [FuncCall(ASdasd, [])])])]))]))
+])

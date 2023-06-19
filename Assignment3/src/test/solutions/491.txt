@@ -1,0 +1,1 @@
+Type mismatch in statement: AssignStmt(ArrayCell(r, [IntegerLit(3)]), ArrayCell(h, [IntegerLit(5)]))

@@ -1,0 +1,7 @@
+ emches : float = 56.35465;
+                    main: function void () {
+                        do {
+                            b: array [2] of string = {1};
+                        } while (a < 10);
+                    }
+                

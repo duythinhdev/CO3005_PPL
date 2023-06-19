@@ -1,0 +1,6 @@
+Program([
+	VarDecl(f, ArrayType([5], IntegerType), ArrayLit([IntegerLit(1), IntegerLit(2), IntegerLit(3), IntegerLit(4), IntegerLit(5)]))
+	FuncDecl(main, VoidType, [InheritOutParam(x, FloatType), OutParam(lmeo, IntegerType)], fact, BlockStmt([IfStmt(BinExpr(!=, BinExpr(<, BinExpr(<, Id(x), BinExpr(&&, Id(y), Id(y))), BinExpr(&&, IntegerLit(9), Id(z))), IntegerLit(10)), AssignStmt(Id(z), IntegerLit(456)), AssignStmt(Id(z), IntegerLit(34576)))]))
+	VarDecl(asd, IntegerType, IntegerLit(10))
+	VarDecl(asdfsd, FloatType)
+])

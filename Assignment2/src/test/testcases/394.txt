@@ -1,0 +1,5 @@
+
+        main2: function void() {
+            a[r3] = j[1||12&&5%5];
+        }
+        

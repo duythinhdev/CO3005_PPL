@@ -1,0 +1,11 @@
+
+        pool: function void() inherit foo{super(1);}
+        boo: function integer(){
+            return 1;
+        }
+        foo: function float(x: integer){
+            i: integer;
+            for (i = -0, i != -10, i == 1){
+                i = pool();
+            }
+        }

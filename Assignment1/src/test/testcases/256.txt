@@ -1,0 +1,11 @@
+ emches : integer = 2052612;
+                    main: function boolean () {
+                        while (z <= a) {
+                            if (z % a != 5){
+                                return true;
+                                //continue;
+                            }
+                            z = z + 1;
+                        }
+                    }
+                

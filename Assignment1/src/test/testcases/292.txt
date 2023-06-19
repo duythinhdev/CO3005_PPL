@@ -1,0 +1,13 @@
+ emches : integer = 2052612;
+                    main: function void () {
+                        if (! (a == 1 || b == 2) && c != 3){
+                            for (i=1,i<=6,i+1){
+                                while (j < 10){
+                                    if (k == 4 && l != 5){
+                                        
+                                    }
+                                }
+                            }                            
+                        }else  break;
+                    }
+                

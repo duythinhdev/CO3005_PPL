@@ -1,0 +1,6 @@
+main: function void(){
+            {
+                hehe = "have no more idea";
+                return hehe;
+            }
+            }

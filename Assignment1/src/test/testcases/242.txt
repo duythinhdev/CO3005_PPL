@@ -1,0 +1,3 @@
+ unc1: function integer (inherit func2: float, param1: integer, param2: auto) {
+                        return param1 + param2;
+                    }

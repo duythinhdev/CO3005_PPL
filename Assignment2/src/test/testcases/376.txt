@@ -1,0 +1,1 @@
+x, y, z: array [1] of integer = {"Mai"}, {"Huu"}, {"Nghia"};

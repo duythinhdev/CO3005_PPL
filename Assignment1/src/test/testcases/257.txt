@@ -1,0 +1,7 @@
+ a: boolean = !true;
+                    print: function integer (){
+                        do{
+                            return 1;
+                        } while (a == true);
+                    }
+                

@@ -1,0 +1,4 @@
+Program([
+	VarDecl(a, BooleanType, UnExpr(!, BooleanLit(True)))
+	FuncDecl(print, VoidType, [], None, BlockStmt([DoWhileStmt(BinExpr(==, Id(a), BooleanLit(True)), BlockStmt([CallStmt(printString, StringLit(hehe))]))]))
+])

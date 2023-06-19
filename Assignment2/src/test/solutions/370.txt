@@ -1,0 +1,4 @@
+Program([
+	VarDecl(emches, IntegerType, Id(test))
+	FuncDecl(main, VoidType, [], None, BlockStmt([WhileStmt(BinExpr(<, Id(a), Id(test)), ReturnStmt(BinExpr(::, Id(x), StringLit(lmeo))))]))
+])

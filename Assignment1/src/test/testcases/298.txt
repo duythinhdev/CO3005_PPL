@@ -1,0 +1,10 @@
+ emches : integer = 2052612;
+                    count_vowels: function void(str: string){
+                        vowels[5] = {"a", "e", "i", "o", "u"};
+                        count: integer = 0;
+                        return count;
+                    }
+                    main: function float () {
+                        result = count_vowels("Hello, World!");
+                    }
+                

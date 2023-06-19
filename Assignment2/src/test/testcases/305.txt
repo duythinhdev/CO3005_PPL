@@ -1,0 +1,4 @@
+x, y, z: integer = 1, 2, 3;
+        a, b, z: float = 1.2, 1.2e3, 4.e4;
+        c,d,e: boolean;
+        f,h,i,j: string;

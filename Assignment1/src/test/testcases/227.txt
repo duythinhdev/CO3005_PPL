@@ -1,0 +1,7 @@
+ emches : integer = 2052612;
+                    main: function void () {
+                        for (i = 1, i < a, i + 1) {
+                            writeInt(i);
+                        }
+                    }
+                

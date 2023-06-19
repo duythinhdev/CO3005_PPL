@@ -1,0 +1,9 @@
+ /* Mai Huu Nghia 2052612 */
+        a: integer = !false;
+        print: function integer (){
+            if(false) {
+                a[2131235] = a[213121] + 2;
+                b[9213] = b[5123123] || true;
+            } else{}
+        }
+        

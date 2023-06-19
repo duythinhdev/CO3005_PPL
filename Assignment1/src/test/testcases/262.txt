@@ -1,0 +1,7 @@
+ emches : integer = 2052612;
+                    main: function void () {
+                        m,n: integer;
+                        c: integer = !(a && b || c);
+                        a: boolean = -(!a + c*2322/5234 + b%2234 + !(a == foo())) ;
+                    }
+                

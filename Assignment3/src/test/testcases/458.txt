@@ -1,0 +1,8 @@
+
+        main:function void () {
+        }
+        hehe: function float(x: integer, y : string){
+            x = 1;
+            
+        }
+        

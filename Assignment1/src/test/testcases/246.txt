@@ -1,0 +1,11 @@
+ emches : integer = 2052612;
+                    main: function void () {
+                        while (z <= a) {
+                            if (z % a != 5){
+                                printString("hehe");
+                                continue;
+                            }
+                            z = z + 1;
+                        }
+                    }
+                

@@ -1,0 +1,21 @@
+
+        main: function integer(a: auto){
+            if (a < 1.2){
+                return 1;
+                if (a < 1.2){
+                    if (a < 1.2){
+                        if (a < 1.2){
+                            if (a < 1.2){
+                                if (a < 1.2){
+                                    if (a < 1.2){
+                                        return 1.2;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            return 13214.124;
+        }
+        

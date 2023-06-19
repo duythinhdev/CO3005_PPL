@@ -1,0 +1,4 @@
+ main: function void () {
+                        if(x<y && y < 9 && z != "lmeo") z = "hehe lmeo";
+                        else z = "hehe ko lmeo";
+                    }

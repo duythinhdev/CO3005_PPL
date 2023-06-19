@@ -1,0 +1,11 @@
+
+        x,r,t, cse: auto = 1, {3,12}, 1-2.e13, "";
+        str: function string (s: string){}
+        main2: function void() {
+            do {
+                printString("CSE = " :: str(cse));
+                cse = cse + 1;
+                continue;
+            } while (x <= 10);
+        }
+        

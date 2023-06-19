@@ -1,0 +1,9 @@
+ /* Mai Huu Nghia 2052612 */
+        main: function string () {
+            return "please more than 90/100"; 
+            return "please more than 90/100"; 
+            return "please more than 90/100"; 
+            return "please more than 90/100"; 
+            return "please more than 90/100"; 
+            return "please more than 90/100";
+        }

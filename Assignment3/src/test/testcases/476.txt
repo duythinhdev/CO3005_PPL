@@ -1,0 +1,7 @@
+
+            main: function void(){}
+            foo: function auto(){}
+            c: function integer (x: auto){
+                a: integer = 1.3 + foo();
+            }
+        

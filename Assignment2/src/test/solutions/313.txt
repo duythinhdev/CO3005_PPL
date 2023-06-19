@@ -1,0 +1,5 @@
+Program([
+	VarDecl(f, ArrayType([5], IntegerType), ArrayLit([IntegerLit(1), IntegerLit(2), IntegerLit(3), IntegerLit(4), IntegerLit(5)]))
+	FuncDecl(main, VoidType, [], None, BlockStmt([VarDecl(r, IntegerType), VarDecl(s, IntegerType), AssignStmt(Id(r), FloatLit(2.0)), VarDecl(b, FloatType, FloatLit(6.5)), VarDecl(a, ArrayType([5], StringType))]))
+	FuncDecl(MaiHuuNghia2052612, VoidType, [InheritOutParam(x, FloatType), OutParam(lmeo, IntegerType)], fact, BlockStmt([]))
+])

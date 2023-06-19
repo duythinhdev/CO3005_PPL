@@ -1,0 +1,14 @@
+ /* Mai Huu Nghia 2052612 */
+        a: boolean = !false;
+        print: function integer (){
+            please_more_than_90(hsdad(asdasd(SAdasD(ASdasd()))));
+        }
+        a: boolean = !false;
+        print: function integer (){
+            please_more_than_90(hsdad(asdasd(SAdasD(ASdasd()))));
+        }
+        a: boolean = !false;
+        print: function integer (){
+            please_more_than_90(hsdad(asdasd(SAdasD(ASdasd()))));
+        }
+        

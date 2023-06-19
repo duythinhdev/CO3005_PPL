@@ -1,0 +1,5 @@
+ /* Mai Huu Nghia 2052612 */
+        visitProgram: function void(self: auto, ctx: auto){
+            return Program(declares);
+        }
+        

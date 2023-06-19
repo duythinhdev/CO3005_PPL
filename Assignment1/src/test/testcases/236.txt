@@ -1,0 +1,9 @@
+ add: function integer(x: integer, y: integer) {
+                        return x + y;
+                    }
+                    a: integer;
+                    main: function void () {
+                        add(3,4);
+                        a = add(1,3);
+                    }
+                

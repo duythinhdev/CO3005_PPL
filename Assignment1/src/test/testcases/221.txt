@@ -1,0 +1,1 @@
+hehe: function void ( inherit out x : float, out lmeo: integer) inherit fact {}

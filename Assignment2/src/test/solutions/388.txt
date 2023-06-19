@@ -1,0 +1,6 @@
+Program([
+	VarDecl(x, AutoType, IntegerLit(1))
+	VarDecl(r, AutoType, ArrayLit([IntegerLit(3), IntegerLit(12)]))
+	VarDecl(t, AutoType, BinExpr(-, IntegerLit(1), FloatLit(20000000000000.0)))
+	FuncDecl(main2, VoidType, [], None, BlockStmt([DoWhileStmt(BinExpr(<=, Id(cse), IntegerLit(10)), BlockStmt([CallStmt(writeLn, BinExpr(::, StringLit(CSE = ), FuncCall(str, [Id(cse)]))), AssignStmt(Id(cse), BinExpr(+, Id(cse), IntegerLit(1))), ContinueStmt()]))]))
+])

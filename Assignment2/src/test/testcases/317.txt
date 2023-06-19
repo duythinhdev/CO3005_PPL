@@ -1,0 +1,15 @@
+ /* Mai Huu Nghia 2052612 */
+        main: function void ( inherit out x : float, out lmeo: integer) inherit fact {
+            if(x<y && y < 9 && z != 10) z = 456;
+            else z = 34576;
+            if (i % 2 == 0){
+                result: integer = 2 + 3 * 4 / (5 - 1);
+                arr: array[3,5] of integer;
+                break;
+            }
+        }
+        asd: integer =10;
+        asdfsd: function auto()
+        {
+            return a[b[2]]*a[b]+dasfadsf+widsafdth / 2456 * foo(please,give,me,hehe) + foo(2,3,4);
+        }

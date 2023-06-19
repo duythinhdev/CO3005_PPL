@@ -1,0 +1,12 @@
+
+        pool: function void() inherit foo{
+            super(1);
+        }
+        boo: function integer(){
+            return 1;
+        }
+        foo: function float(x: integer){
+            if(x == 1) return 1;
+            return "";
+            return "ashjdgkf";
+        }

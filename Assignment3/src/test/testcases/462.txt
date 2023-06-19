@@ -1,0 +1,15 @@
+
+        main:function void () {
+        }
+        hehe: function float(inherit c: integer, y : string) inherit aaa{
+            super(3);
+            b = 1;
+        }
+        aaa: function float(inherit a: integer) inherit bbb{
+            super(2,1);
+            b = 1;
+        }
+        bbb: function float(inherit b: integer, inherit c: float){
+            
+        }
+        

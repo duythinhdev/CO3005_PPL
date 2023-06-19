@@ -1,0 +1,7 @@
+ /* Mai Huu Nghia 2052612 */
+        main: function void() {
+            delta: integer = fact(3);
+            inc(x, delta);
+            printInteger(x);
+        }
+        

@@ -1,0 +1,8 @@
+ emches : integer = 2052612;
+                    main: function boolean () {
+                        dividend, divisor: integer = 25,4;
+
+                        quotient: integer = dividend / divisor;
+                        remainder:integer = dividend % divisor;
+                    }
+                

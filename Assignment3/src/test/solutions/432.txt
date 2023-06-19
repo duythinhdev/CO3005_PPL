@@ -1,0 +1,1 @@
+Type mismatch in statement: IfStmt(BinExpr(::, Id(x), StringLit(1)), AssignStmt(Id(x), IntegerLit(1)))

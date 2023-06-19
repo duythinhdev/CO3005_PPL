@@ -1,0 +1,6 @@
+x: integer = 123123;
+        a: float = 1.2345;
+        c: auto = true;
+        f: array[5] of integer = {1,2,3,4,5};
+        main: function void () {}
+        test: function integer(){}

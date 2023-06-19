@@ -1,0 +1,5 @@
+ x: integer;
+                    fact: function integer (n: integer) {
+                        if (n == 0) x = 1;
+                        else x = 0;
+                    }

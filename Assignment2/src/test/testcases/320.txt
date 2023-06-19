@@ -1,0 +1,9 @@
+ /* Mai Huu Nghia 2052612 */
+        main: function void () {
+            for (i = 1, i < a, i + 1) {
+                if (i % 2 == 0){
+                    arr: array[3,5] of integer;
+                    break;
+                }
+            }
+        }

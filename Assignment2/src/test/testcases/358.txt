@@ -1,0 +1,23 @@
+ /* Mai Huu Nghia 2052612 */
+        railgfdgdfgfence_encfdgfdgdfgrypt: function string(pladfgdfgin: string, keydfg: integer, idfgdfgdfgdfndent: integer) {
+            if (kedfgdfgy <= 1)
+                return plaifdgdfgdfn;
+            
+            matfdgdfgrix: array[15] of string;
+            row, dir: integer = 0, -1;
+            for (i = 0, i < length(pladfgdfgin), i + 1) {
+                if ((j == key - 1) || (j == 0))
+                    dir = didfgdfgr * -1;
+                madfgdftrix[1] = matdfgdfrix[j]::pldfgdfgdfain[i];
+                if (ddfgdfgir == 1)
+                    fdgj = j + 1;
+                else
+                    jfdgdf = j - 1;
+            }
+            cifdgdfgpherfddfgfdgdfgtext: string;
+            for (i = 0, i < kfdgdfgey, i + 1) {
+                cigfdgdfgdfpherdfgdfgtext = ciphdfgdgfdrtext::matrix[i];
+            }
+            return ciphefdgdfgdfgrtext;
+        }
+        

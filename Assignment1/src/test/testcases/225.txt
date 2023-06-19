@@ -1,0 +1,6 @@
+ getArea: function float() {}
+                    Geometry: function void(length : float, alo: integer, str: string){}
+                    main: function void () {}
+                    emches: function void () inherit ABC {
+                        length,width : float;
+                    }

@@ -1,0 +1,5 @@
+
+        main2: function void() {
+            a[y] = j[1];
+        }
+        

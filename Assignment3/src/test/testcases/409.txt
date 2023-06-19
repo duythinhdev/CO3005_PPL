@@ -1,0 +1,9 @@
+
+        foo: function void() inherit ain{
+            super(14);        
+        }
+        ain:function void (inherit y: auto) {
+            f: array[3] of float;
+        }
+        main: function void(){        
+        }

@@ -1,0 +1,14 @@
+ test: string = "depressed";
+                    stringconcat:  function string () {
+                        for ( i = 0, i <= 10, i + 1){
+                            concattest = test :: "z";
+                        }
+                        return concattest;
+                    }
+                    emches: function void () {
+                        // i sadfhgafewfklmkaweyjtrcasdf
+                        a: string = stringconcat();
+                        /*dgsdfgsdfgsdfg
+                        hjsdgfdshgjdsf
+                        sadfghasdfas*/
+                    }

@@ -1,0 +1,16 @@
+ /* Mai Huu Nghia 2052612 */
+        main: function void () {
+            if ((2+2) == 4 && (3*3) > 8) {
+                x: integer = 0;
+                for (i = 0, i < 5, i+1) {
+                    while (x < 10) {
+                        x=x+1;
+                        if (x % 2 == 0 || x == 5) {
+                            continue;
+                        } else{
+                            break;
+                        }
+                    }
+                }
+            }
+        }

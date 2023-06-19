@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, FloatType, [], None, BlockStmt([AssignStmt(ArrayCell(board, [IntegerLit(43252345)]), ArrayLit([IntegerLit(0), IntegerLit(0), IntegerLit(0), IntegerLit(0)]))]))
+])

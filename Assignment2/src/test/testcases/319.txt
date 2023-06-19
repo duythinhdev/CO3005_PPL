@@ -1,0 +1,7 @@
+ /* Mai Huu Nghia 2052612 */
+        main: function void () {
+            for (i = 1, i < -2052612, i + 1) {
+                writeInt(i);
+            }
+            y = !x;
+        }

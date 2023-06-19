@@ -1,0 +1,1 @@
+Type mismatch in statement: IfStmt(BinExpr(+, Id(a), Id(b)), BlockStmt([CallStmt(printInteger, IntegerLit(4))]))

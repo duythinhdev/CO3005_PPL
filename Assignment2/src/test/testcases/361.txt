@@ -1,0 +1,10 @@
+ /* Mai Huu Nghia 2052612 */
+        a: array[2, 3] of integer = {{"2","3","4"},{"5","6","7"}};
+        main: function void() {
+            do {
+                writeLn("asdA = " :: str(asad));
+                a = a + 1;
+                break;
+            } while (a <= 10);
+        }
+        

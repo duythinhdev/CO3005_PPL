@@ -1,0 +1,15 @@
+
+        x: boolean;
+        main: function void() inherit foo{
+            super(1);
+            f: array[5] of integer = {1,2,3,4,5};
+            if (!x) x = !x;            
+        }
+        boo: function integer(){
+            return 1;
+        }
+        foo: function float(x: integer){
+            do{
+                printInteger(x);
+            } while (bar() > 0);
+        }

@@ -1,0 +1,8 @@
+Program([
+	VarDecl(x, IntegerType, IntegerLit(123123))
+	VarDecl(a, FloatType, FloatLit(1.2345))
+	VarDecl(c, AutoType, BooleanLit(True))
+	VarDecl(f, ArrayType([5], IntegerType), ArrayLit([IntegerLit(1), IntegerLit(2), IntegerLit(3), IntegerLit(4), IntegerLit(5)]))
+	FuncDecl(main, VoidType, [], None, BlockStmt([]))
+	FuncDecl(test, IntegerType, [], None, BlockStmt([]))
+])

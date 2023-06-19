@@ -1,0 +1,8 @@
+ func1: function integer () {
+                        if (true) {
+                            return 1;
+                        } else {
+                            return 2;
+                        }
+                        return 3;
+                    }

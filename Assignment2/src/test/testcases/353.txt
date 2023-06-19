@@ -1,0 +1,17 @@
+ /* Mai Huu Nghia 2052612 */
+        selectionSort: function void(arr: array[5] of integer, n: integer)
+        {
+            i, j, min_idx: integer;
+
+            for (i = 0, i < n - 1, i+1)
+            {
+                min_idx = i;
+                for (j = i + 1, j < n, j+1)
+                    if (arr[j] < arr[min_idx])
+                        min_idx = j;
+
+                swap(arr[min_idx], arr[i]);
+            }
+        }
+
+        

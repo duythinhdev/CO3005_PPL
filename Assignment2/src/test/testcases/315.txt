@@ -1,0 +1,6 @@
+ /* Mai Huu Nghia 2052612 */
+        f: array[5] of integer = {1,2,3,4,5};
+        main: function void ( inherit out x : float, out lmeo: integer) inherit fact {
+            if (n == 0) x = 1;
+            else x = 0;
+        }

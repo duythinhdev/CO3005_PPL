@@ -1,0 +1,8 @@
+ max: function void(a: integer, b:integer) {
+                        if (a > b) return a; 
+                        else return b;
+                    }
+                    print: function void (){
+                        print(max(3, 4));
+                    }
+                

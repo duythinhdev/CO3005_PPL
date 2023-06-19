@@ -1,0 +1,7 @@
+ emches : integer = 2052612;
+                    main: function float () {/*
+                        board[43252345] = {
+                            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                        };*/
+                    }
+                

@@ -1,0 +1,9 @@
+
+        boo: function integer(){
+            return 1;
+        }
+        foo: function float(x: integer){
+            do{
+                x = printInteger();
+            } while (boo()/10*345.6+4 > 0);
+        }

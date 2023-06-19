@@ -1,0 +1,4 @@
+ /* Mai Huu Nghia 2052612 */
+        main: function void () {
+            if (a < b && c < d && e > f || g > h && i <= j && k >= l || m != n && o == p) {x=1;} else {x=2;}
+        }

@@ -1,0 +1,4 @@
+Program([
+	VarDecl(a, IntegerType, UnExpr(!, BooleanLit(False)))
+	FuncDecl(print, IntegerType, [], None, BlockStmt([IfStmt(BooleanLit(False), BlockStmt([AssignStmt(ArrayCell(a, [IntegerLit(2131235)]), BinExpr(+, ArrayCell(a, [IntegerLit(213121)]), IntegerLit(2))), AssignStmt(ArrayCell(b, [IntegerLit(9213)]), BinExpr(||, ArrayCell(b, [IntegerLit(5123123)]), BooleanLit(True)))]), BlockStmt([]))]))
+])

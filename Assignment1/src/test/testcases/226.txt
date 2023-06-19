@@ -1,0 +1,7 @@
+ emches : integer = 2052612;
+                    main: function void () {
+                        while (z <= a) {
+                            z = z + 1;
+                        }
+                    }
+                

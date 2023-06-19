@@ -1,0 +1,5 @@
+ a: boolean = true;
+                    print: function string (){
+                        arra[asdasd[dsadsasd[sadsaddas[sadsadasd[sadasd[asdas[asd[asd[sad[sad[asd[12311233123213_3213231_123]]]]]]]]]]]]=1;
+                    }
+                
