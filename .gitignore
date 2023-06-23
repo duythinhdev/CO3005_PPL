@@ -1,0 +1,6 @@
+env
+target
+.idea
+__pycache__
+solutions
+testcases

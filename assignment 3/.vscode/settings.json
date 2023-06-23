@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./assignment3/target",
+        "./assignment3/src/main/bkool/utils",
+        "./assignment3/src/main/bkool/astgen",
+        "./assignment3/src/main/bkool/parser",
+        "./assignment3/src/main/bkool/checker"
+    ]
+}
