@@ -1,4 +1,3 @@
-/* 1811984 */
 grammar BKOOL;
 
 @lexer::header {
